@@ -1,0 +1,17 @@
+
+table,td
+{
+    border: 2px solid black;
+    border-collapse: collapse;
+    border-radius: 65px;
+}
+input,textarea{
+    border-radius: 5px;
+}
+.submit
+{
+    border-radius: 5px;
+}
+#date{
+    width: 165px;
+}
