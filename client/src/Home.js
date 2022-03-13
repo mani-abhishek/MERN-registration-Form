@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <>
     <h1>
-      Welcome to home
+      Here we can get the list of all user !
     </h1>
     
     </>
